@@ -1,1 +1,1 @@
-# blogimgbed
+# blogimgebed
